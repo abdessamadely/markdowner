@@ -1,6 +1,6 @@
 {
   "name": "@abdessamadely/markdowner-editor",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "A block based richtext editor for developers",
   "type": "module",
   "main": "dist/index.cjs.js",
