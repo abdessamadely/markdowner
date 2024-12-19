@@ -1,5 +1,5 @@
 {
-  "name": "@abdessamadely/markdowner",
+  "name": "@abdessamadely/markdowner-editor",
   "version": "0.0.5",
   "description": "A block based richtext editor for developers",
   "type": "module",
